@@ -1,0 +1,18 @@
+<html>
+    <head>
+        <title>
+            hello
+        </title>
+    </head>
+    <body>
+            
+           <center> 
+            <img src="lightoff.png" Id="img1">
+            <br>
+            <br>
+            <input type ="button" value="ON" onclick='document.getElementById("img1").src="lighton.png";'>
+            <input type ="button" value="OFF" onclick='document.getElementById("img1").src="lightoff.png";'>
+           </center>
+
+    </body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<title>Online HTML Editor</title>
+<head>
+</head>
+<body bgcolor="yellow">
+    <table border="1" bgcolor="cyan">
+  <tr>
+    <td>
+      <form>
+        <label>Username:</label>
+        <input type="text" id="username" name="username"><br><br>
+        <label>Password:</label>
+        <input type="password" id="password" name="password"><br><br>
+        <center><input type="submit" value="Login"></center>
+      </form>
+    </td>
+  </tr>
+</table>
+
+    
+</body>
+</html>

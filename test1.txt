@@ -1,0 +1,32 @@
+<html>
+<head> <title> my world </title>
+</head>
+<body> 
+
+<table border ="1" align="center" style=background:lightblue>
+
+<tr>  <th rowspan="2">  </th> 
+      <th colspan="2"> Average </th>
+      <th rowspan="2"> Red eye </th> 
+</tr>
+<tr>
+     
+     <td style=background:#83f52c> height</td>
+     <td style=background:#FF9E3D> weight</td>
+</tr>
+<tr>
+     <td> males</td>
+     <td> 1.9</td>
+     <td> 0.003</td>
+     <td> 40%</td>
+</tr>
+<tr>
+     <td> females</td>
+     <td> 1.7</td>
+     <td> 0.002</td>
+     <td> 43%</td>
+</tr>
+</table>
+
+</body>
+</html>
